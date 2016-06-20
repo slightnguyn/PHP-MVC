@@ -34,8 +34,8 @@
 <body>
 	<div class="container">
 		<div class="content">
-			<h1>E-COMMERCE PROJECT</h1>
-			<p>This is project for training with nature php.</p>
+			<h1>MVC-PHP PROJECT</h1>
+			<p>This is project for define a structure mvc pattern in php.</p>
 		</div>
 	</div>
 </body>
